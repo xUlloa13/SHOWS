@@ -14,7 +14,7 @@ Valor del cliente: ¿Cuánto dinero aporta cada cliente a la empresa a lo largo 
 
 Punto de equilibrio del cliente: ¿Cuándo los ingresos generados por un cliente cubren su costo de adquisición?
 ____________________________________________________________________________________________________________________________________________________________________________________________
-Herramientas y tecnologías: 
+## Tecnologías Utilizadas
 Python
  -Pandas
  -Matplotlib
